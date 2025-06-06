@@ -26,7 +26,7 @@ Manual completion of electrical pull sheet PDFs is a repetitive, time-consuming 
 
 ---
 
-## Our Solution
+## The Solution
 
 This project automates the entire process with a Python-based workflow that:
 
@@ -63,7 +63,7 @@ The automation workflow was carefully designed and implemented to ensure reliabi
 
 ## Collaboration and Next Steps
 
-We welcome collaboration opportunities to:
+I welcome collaboration opportunities to:
 
 * Expand automation to other check sheet types
 * Integrate with project management and documentation systems
